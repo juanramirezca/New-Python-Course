@@ -1,0 +1,25 @@
+Valentina
+Chelsea
+Juan
+Carlos
+
+# Ejercicio 3
+Juan Carlos, Ramirez, 2223584838
+
+
+
+#Ejercicio 4
+Juan, 8
+Maria, 10
+Valentina, 10
+Pedro, 9
+Carlos, 7
+
+
+(8 + 10 + 10 + 9 + 7) / 5 = 
+
+
+#Ejercicio
+Juan Carlos, 33,  2223584838
+       Rene, 22, 15627834901
+      Maria, 23,    11749140

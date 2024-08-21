@@ -1,0 +1,3 @@
+apple, 50.99, 50  
+bananas, 23.50, 30  
+oranges, 35.24, 100  
